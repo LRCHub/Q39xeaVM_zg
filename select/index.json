@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Como Tu Mujer",
+  "base_artist": "Rocío Dúrcal",
+  "createdAt": "2026-02-13T04:30:41.721928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Como Tu Mujer (Live)",
+      "artist": "Marco Antonio Solís feat. Pasion Vega",
+      "has_synced": false,
+      "path": "select/01_Como_Tu_Mujer_(Live)_Marco_Antonio_Solís_feat._Pasion_Vega.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Marco Antonio Solís",
+      "has_synced": false,
+      "path": "select/02_Como_Tu_Mujer_Marco_Antonio_Solís.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": false,
+      "path": "select/03_Como_Tu_Mujer_Rocío_Dúrcal.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/04_Como_Tu_Mujer_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/05_Como_Tu_Mujer_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Durcal",
+      "has_synced": true,
+      "path": "select/06_Como_Tu_Mujer_Rocío_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocio Durcal",
+      "has_synced": true,
+      "path": "select/07_Como_Tu_Mujer_Rocio_Durcal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Como Tu Mujer - Live",
+      "artist": "Jenni Rivera",
+      "has_synced": false,
+      "path": "select/08_Como_Tu_Mujer_-_Live_Jenni_Rivera.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/09_Como_Tu_Mujer_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/10_Como_Tu_Mujer_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rocío Dúrcal - Como tu mujer  (Lyrics)",
+      "artist": "GRM Lyrics",
+      "has_synced": true,
+      "path": "select/11_Rocío_Dúrcal_-_Como_tu_mujer_(Lyrics)_GRM_Lyrics.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rocío Dúrcal - Como tu mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/12_Rocío_Dúrcal_-_Como_tu_mujer_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Como Tu Mujer (Letra / Lyrics)",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/13_Como_Tu_Mujer_(Letra___Lyrics)_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/14_Como_Tu_Mujer_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Como Tu Mujer ((Cover Audio) (Video))",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/15_Como_Tu_Mujer_((Cover_Audio)_(Video))_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Como Tu Mujer - Banda",
+      "artist": "Jenni Rivera",
+      "has_synced": true,
+      "path": "select/16_Como_Tu_Mujer_-_Banda_Jenni_Rivera.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Como tu mujer (banda)",
+      "artist": "Jenni Rivera feat. Marco Antonio Solís",
+      "has_synced": true,
+      "path": "select/17_Como_tu_mujer_(banda)_Jenni_Rivera_feat._Marco_Antonio_Solís.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Como tu mujer (pop)",
+      "artist": "Jenni Rivera feat. Marco Antonio Solís",
+      "has_synced": true,
+      "path": "select/18_Como_tu_mujer_(pop)_Jenni_Rivera_feat._Marco_Antonio_Solís.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Como Tu Mujer",
+      "artist": "Rocío Dúrcal",
+      "has_synced": false,
+      "path": "select/pl_01_Como_Tu_Mujer_Rocío_Dúrcal.txt"
+    }
+  ]
+}
